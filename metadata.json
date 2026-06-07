@@ -1,0 +1,6 @@
+{
+  "name": "EduPortal",
+  "description": "A comprehensive multi-role school academic information system with offline sync, dashboards, class journals, real-time announcements, attendance alerts, student portfolios, and exam management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
